@@ -3,3 +3,6 @@ Python3官方安装包，国内镜像加速。由于Python官网国内访问速�
 
 # CDN访问加速地址
 https://cdn.jsdelivr.net/gh/pengyc96/python3/
+
+# 国内码云镜像仓库
+https://gitee.com/pengyc96/python3
